@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJcbmQ5cvkEaEWDGfHJkF3gAAAAACAAAAAAAQZgAAAAEAACAAAADlFJTxOxQYGiB/zJWXvpcapO4M5SO+C4V+tMuF9IdBXwAAAAAOgAAAAAIAACAAAAAPtAn/eKoy0UvNgW2aRsM8xxSNcaMr+Y95lc6gbmTGVoAAAADWp6yHg68attBStxbTkkqSc8uAcQRfWPwch79D0r4oQlFyUyA9zF0fCrRQkyldBh7beTr+/Y5ZbgoiRuAa6BFDr08pe1JKxhU3ErLDlMDHlQeFZ9RzZ1XqRp8mSS14LUVTbbsFWKYIXPWgtihvnX1wlM27QPnO2zUQ+8FDCzpxkEAAAAD62v73kzRQHBxfkubpukg4rsReXiQvH77VjpjH2woUwJoka8dPnkIOBA6QDYEYHas3kcW4XSfHOl5N2wk9TlT8</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Server=DESKTOP-OP6C7CH%3bDatabase=XHospitalDB%3bTrusted_Connection=True%3bMultipleActiveResultSets=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

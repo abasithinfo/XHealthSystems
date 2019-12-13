@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJcbmQ5cvkEaEWDGfHJkF3gAAAAACAAAAAAAQZgAAAAEAACAAAADNmCbvJnW+KH8c8fm+C0BWIwQh46oTvnvzK+jkLIQuBAAAAAAOgAAAAAIAACAAAADhmgOxy2/MKOKuZEhFw4JTwM+mSh/XgaS/+x1Q+m8+64AAAACLSMY4tKolTtpb6uRKOMMcjiNv0oTp5M6GLJf+u77hiSZrgzJIeKNosVoqKpmTl6GBPCfm2EOzmVvXs/9mGmcOmswy9BxlrvjMnh2lthF5xlzazfF7/xKOWiMzXj0swksLWOX1gTSYtCzc2Lyq2oNosnsXTdxRKdhkStqiDhNcU0AAAAA4PytLqPy0lP6xp9ajGb0izinVmS1Bz5eelwTMjM3x2C2lF8biSFEfip4MiLfKaWZPq+s7cDkWBEN5Z7fk7YuN</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Data Source=tcp:xhealthhospitalsystems20191208042745dbserver.database.windows.net,1433%3bInitial Catalog=XHealthHospitalSystems20191208042745_db%3bUser Id=abasith250%40xhealthhospitalsystems20191208042745dbserver%3bPassword=123250+Ab%24</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
